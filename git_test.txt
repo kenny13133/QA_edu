@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 asdfdSA
 
 
 git
+=======
+git
+
+HAFSRjbxbv
+>>>>>>> ac4864eb5e69abda4d53eae5d9841298c9f86c6e
